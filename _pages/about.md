@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a research assistant and doctoral candidate at the Chair of Signal Processing, Technical University of Munich, supervised by Prof. Wolfgang Utschick. Previously, I received the B.Sc. degree in electrical engineering and information technology in 2019, the B.Sc. degree in physics in 2020, and the M.Sc. degree (Hons.) in electrical engineering and information technology in 2022. 
+I am a research assistant and doctoral candidate at the Chair of Signal Processing, Technical University of Munich, supervised by Prof. Wolfgang Utschick. Previously, I received the B.Sc. degree in electrical engineering and information technology in 2019, the B.Sc. degree in physics in 2020, and the M.Sc. degree in electrical engineering and information technology in 2022. 
 
 Research Interests
 ======
