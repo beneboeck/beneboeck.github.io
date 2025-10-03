@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.png"
+  avatar           : "profile1.png"
   name             : "Benedikt Böck"  
   bio              : "Research assistant with a strong interest in statistical signal processing and exploiting model knowledge for machine learning."
   location         : "Munich, Germany"
