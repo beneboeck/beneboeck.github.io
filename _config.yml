@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Benedikt Böck"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research assistant with a strong interest in statistical signal processing and exploiting model knowledge for machine learning."
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
   email            : "benedikt.boeck@tum.de" 
