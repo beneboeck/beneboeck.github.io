@@ -1,5 +1,5 @@
 ---
-title: "Decoupling Networks and Super-Quadratic Gains for RIS Systems with Mutual Coupling"
+title: "Decoupling Networks and Super-Quadratic Gains for RIS Systems with Mutual Coupling | [Paper](https://ieeexplore.ieee.org/abstract/document/11104967)"
 collection: publications
 category: journal
 permalink: /publication/decoupling

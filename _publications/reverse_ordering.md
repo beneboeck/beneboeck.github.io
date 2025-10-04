@@ -1,5 +1,5 @@
 ---
-title: "Reverse Ordering Techniques for Attention-Based Channel Prediction"
+title: "Reverse Ordering Techniques for Attention-Based Channel Prediction | [Paper](https://ieeexplore.ieee.org/document/10363354)"
 collection: publications
 category: journal
 permalink: /publication/reverse_ordering

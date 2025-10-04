@@ -1,5 +1,5 @@
 ---
-title: "Sparse Bayesian Generative Modeling for Compressive Sensing"
+title: "Sparse Bayesian Generative Modeling for Compressive Sensing | [Paper](https://openreview.net/forum?id=GqefKjw1OR)"
 collection: publications
 category: ml_conferences
 permalink: /publication/sbgm

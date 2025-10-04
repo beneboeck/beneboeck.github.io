@@ -1,5 +1,5 @@
 ---
-title: "Gohberg-Semencul Toeplitz Covariance Estimation via Autoregressive Parameters"
+title: "Gohberg-Semencul Toeplitz Covariance Estimation via Autoregressive Parameters | [Paper](https://ieeexplore.ieee.org/document/10857370/)"
 collection: publications
 category: journal
 permalink: /publication/gohberg_semencul
