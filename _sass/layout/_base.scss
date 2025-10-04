@@ -17,7 +17,7 @@ body {
   padding-bottom: 9em;
   font-family: $global-font-family;
   /* 1.5 vorher */
-  line-height: 1.2;
+  line-height: 1.5;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -63,7 +63,7 @@ small, .small {
 
 p {
   /* 1.3 vorher */
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
 }
 
 u,
