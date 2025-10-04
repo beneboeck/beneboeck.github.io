@@ -4,6 +4,7 @@ collection: publications
 category: ml_conferences
 permalink: /publication/physics_informed
 excerpt: ''
+authors: ["Alice Smith", "Bob Lee", "Charlie Nguyen"]
 date: 2025-08-11
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://openreview.net/forum?id=FFJFT93oa7'
