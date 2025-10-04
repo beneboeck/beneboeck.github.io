@@ -1,5 +1,5 @@
 ---
-title: "Physics-Informed Generative Modeling of Wireless Channels | [Paper](https://openreview.net/forum?id=FFJFT93oa7)"
+title: "Physics-Informed Generative Modeling of Wireless Channels"
 collection: publications
 category: ml_conferences
 permalink: /publication/physics_informed

@@ -1,5 +1,5 @@
 ---
-title: "On the Asymptotic Mean Square Error Optimality of Diffusion Models | [Paper](https://openreview.net/forum?id=XrXlAYFpvR) | [Code](https://github.com/benediktfesl/Diffusion_MSE)"
+title: "On the Asymptotic Mean Square Error Optimality of Diffusion Models"
 collection: publications
 category: ml_conferences
 permalink: /publication/asymptotic_diffusion

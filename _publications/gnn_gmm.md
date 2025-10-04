@@ -1,5 +1,5 @@
 ---
-title: "Statistical Precoder Design in Multi-User Systems via Graph Neural Networks and Generative Modeling | [Paper](ieeexplore.ieee.org/document/10907923?denied=)"
+title: "Statistical Precoder Design in Multi-User Systems via Graph Neural Networks and Generative Modeling"
 collection: publications
 category: journal
 permalink: /publication/gnn_gmm

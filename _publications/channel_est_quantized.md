@@ -1,5 +1,5 @@
 ---
-title: "Channel Estimation for Quantized Systems Based on Conditionally Gaussian Latent Models | [Paper](https://ieeexplore.ieee.org/document/10454252/) | [Code](https://github.com/benediktfesl/Quantized_Channel_Estimation)"
+title: "Channel Estimation for Quantized Systems Based on Conditionally Gaussian Latent Models"
 collection: publications
 category: journal
 permalink: /publication/channel_est_quantized

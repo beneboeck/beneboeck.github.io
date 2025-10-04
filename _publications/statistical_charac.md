@@ -1,5 +1,5 @@
 ---
-title: "A Statistical Characterization of Wireless Channels Conditioned on Side Information | [Paper](https://ieeexplore.ieee.org/document/10706091)"
+title: "A Statistical Characterization of Wireless Channels Conditioned on Side Information"
 collection: publications
 category: journal
 permalink: /publication/statistical_charac

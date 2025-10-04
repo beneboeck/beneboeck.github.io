@@ -1,5 +1,5 @@
 ---
-title: "A Versatile Pilot Design Scheme for FDD Systems Utilizing Gaussian Mixture Models | [Paper](https://ieeexplore.ieee.org/document/10878425)"
+title: "A Versatile Pilot Design Scheme for FDD Systems Utilizing Gaussian Mixture Models"
 collection: publications
 category: journal
 permalink: /publication/versatile_pilot

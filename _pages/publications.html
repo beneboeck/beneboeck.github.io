@@ -5,48 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style>
-/* Custom font sizing for publications page */
-.archive__item-title {
-  font-size: 0.9em !important;
-}
-
-/* Style the publication links next to title */
-.pub-links {
-  font-size: 0.8em !important;
-  font-weight: normal !important;
-  color: #666 !important;
-}
-
-.pub-links a {
-  color: #666 !important;
-  text-decoration: none !important;
-  margin: 0 2px !important;
-  font-size: 0.8em !important;
-}
-
-.pub-links a:hover {
-  color: #333 !important;
-  text-decoration: underline !important;
-}
-
-.archive__item-excerpt {
-  font-size: 0.7em !important;
-}
-
-.pub-authors {
-  font-size: 0.8em !important;
-}
-
-.archive__item p {
-  font-size: 0.8em !important;
-}
-
-.archive__item a {
-  font-size: 0.8em !important;
-}
-</style>
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -65,12 +23,12 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-publication.html %}
+      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single-publication.html %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 
