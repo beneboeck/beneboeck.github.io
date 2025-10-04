@@ -7,6 +7,24 @@
     font-size: 0.9em; /* Smaller than default */
   }
   
+  /* Style the publication links next to title */
+  .pub-links {
+    font-size: 0.8em;
+    font-weight: normal;
+    color: var(--global-text-color-light);
+    
+    a {
+      color: var(--global-text-color-light);
+      text-decoration: none;
+      margin: 0 2px;
+      
+      &:hover {
+        color: var(--global-text-color);
+        text-decoration: underline;
+      }
+    }
+  }
+  
   /* Make publication excerpts smaller */
   .archive__item-excerpt {
     font-size: 0.7em; /* Smaller than $type-size-6 */
