@@ -5,7 +5,7 @@ category: journal
 permalink: /publication/versatile_pilot
 excerpt: ''
 authors: ["Nurettin Turan", "Benedikt Böck", "Benedikt Fesl", "Michael Joham", "Deniz Gündüz","Wolfgang Utschick"]
-date: 2023-12-18
+date: 2025-02-07
 venue: 'IEEE Transactions in Wireless Communications (TWC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10878425'
 ---
