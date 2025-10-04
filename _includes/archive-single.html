@@ -41,7 +41,15 @@
 
 {% if post.authors %}
   <p class="pub-authors">
-    <strong>Authors:</strong> {{ post.authors | join: ", " }}
+    <strong>Authors:</strong>
+    {% for author in post.authors %}
+      {% if author == "Benedikt Böck" %}
+        <strong>{{ author }}</strong>
+      {% else %}
+        {{ author }}
+      {% endif %}
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
   </p>
 {% endif %}
 
