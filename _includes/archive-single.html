@@ -34,20 +34,12 @@
       {% endif %}
       {% comment %} Add paper/code links next to title for publications {% endcomment %}
       {% if post.collection == 'publications' %}
-        {% if post.paperurl and post.codeurl and post.bibtexurl %}
-          <span class="pub-links"> | <a href="{{ post.paperurl }}">[Paper]</a> | <a href="{{ post.codeurl }}">[Code]</a> | <a href="{{ post.bibtexurl }}">[BibTeX]</a></span>
-        {% elsif post.paperurl and post.codeurl %}
-          <span class="pub-links"> | <a href="{{ post.paperurl }}">[Paper]</a> | <a href="{{ post.codeurl }}">[Code]</a></span>
-        {% elsif post.paperurl and post.bibtexurl %}
-          <span class="pub-links"> | <a href="{{ post.paperurl }}">[Paper]</a> | <a href="{{ post.bibtexurl }}">[BibTeX]</a></span>
+        {% if post.paperurl and post.bibtexurl %}
+          <span class="pub-links"> | <a href="{{ post.paperurl }}">[Paper]</a> | <a href="{{ post.bibtexurl }}">[Code]</a></span>
         {% elsif post.paperurl %}
           <span class="pub-links"> | <a href="{{ post.paperurl }}">[Paper]</a></span>
-        {% elsif post.codeurl and post.bibtexurl %}
-          <span class="pub-links"> | <a href="{{ post.codeurl }}">[Code]</a> | <a href="{{ post.bibtexurl }}">[BibTeX]</a></span>
-        {% elsif post.codeurl %}
-          <span class="pub-links"> | <a href="{{ post.codeurl }}">[Code]</a></span>
         {% elsif post.bibtexurl %}
-          <span class="pub-links"> | <a href="{{ post.bibtexurl }}">[BibTeX]</a></span>
+          <span class="pub-links"> | <a href="{{ post.bibtexurl }}">[Code]</a></span>
         {% endif %}
       {% endif %}
     </h2>
