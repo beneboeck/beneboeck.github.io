@@ -1,0 +1,34 @@
+/* Custom styling for publications page to make fonts smaller */
+
+/* Target the publications page specifically */
+.page__content {
+  /* Make publication titles smaller */
+  .archive__item-title {
+    font-size: 0.9em; /* Smaller than default */
+  }
+  
+  /* Make publication excerpts smaller */
+  .archive__item-excerpt {
+    font-size: 0.7em; /* Smaller than $type-size-6 */
+  }
+  
+  /* Make author information smaller */
+  .pub-authors {
+    font-size: 0.8em;
+  }
+  
+  /* Make publication metadata smaller */
+  p {
+    font-size: 0.8em;
+  }
+  
+  /* Make links smaller */
+  a {
+    font-size: 0.8em;
+  }
+  
+  /* Make category headers smaller */
+  h2 {
+    font-size: 1.2em;
+  }
+}
