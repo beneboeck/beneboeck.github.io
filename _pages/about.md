@@ -13,7 +13,7 @@ I am a research assistant and doctoral candidate at the Chair of Signal Processi
 
 Research Interests
 ======
-I am broadly interested in Statistical Machine Learning and Signal Processing as well as Wireless Communications. I am currently working on two topics from which one is very specific for Wireless Communications and the other targets general machine learning:
+I am broadly interested in Statistical Machine Learning and Signal Processing as well as Wireless Communications. I am currently focusing on the following two topics from which one is very specific for Wireless Communications and the other targets general machine learning:
 
 
 **Combining the Physics of Wireless Signals with Machine Learning for Physical Layer Applications**
