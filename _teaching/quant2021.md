@@ -1,5 +1,5 @@
 ---
-title: "Tutor Assistant for Introduction to Quantum Networks (Winter Semester 20/21)"
+title: "Teaching Assistant for Introduction to Quantum Networks (Winter Semester 20/21)"
 collection: teaching
 type: "Master's course"
 venue: "Technical University of Munich"

@@ -1,8 +1,8 @@
 ---
-title: "Tutor Assistant for Introduction to Machine Learning (Summer Semester 20)"
+title: "Teaching Assistant for Machine Learning and Optimization (Winter Semester 20/21)"
 collection: teaching
-type: "Bachelor's course"
+type: "Master's course"
 venue: "Technical University of Munich"
-permalink: /teaching/intr_ml20
+permalink: /teaching/ml_opt2021
 date: 2020-06-01
 ---

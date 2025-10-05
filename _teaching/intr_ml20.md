@@ -1,5 +1,5 @@
 ---
-title: "Student Assistant for Introduction to Machine Learning (Summer Semester 20)"
+title: "Teaching Assistant for Introduction to Machine Learning (Summer Semester 20)"
 collection: teaching
 type: "Bachelor's course"
 venue: "Technical University of Munich"
