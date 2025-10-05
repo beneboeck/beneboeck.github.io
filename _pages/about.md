@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a research assistant and doctoral candidate at the Chair of Signal Processing, Technical University of Munich, under the supervision of Prof. Wolfgang Utschick. Previously, I received the B.Sc. and M.Sc. in Electrical Engineering and Information Technology from the Technical University of Munich (TUM) in 2019 and 2022, respectively. Additionally, I obtained the B.Sc. in Physics from the Ludwig Maximilian University in Munich (LMU) in 2020.
+I am a research assistant and doctoral candidate at the Chair of Signal Processing, Technical University of Munich, under the supervision of Prof. Wolfgang Utschick. Previously, I received the B.Sc. and M.Sc. in Electrical Engineering and Information Technology from the Technical University of Munich (TUM) in 2019 and 2022, respectively. Additionally, I obtained the B.Sc. in Physics from the Ludwig Maximilian University (LMU), Munich, in 2020.
 
 Research Interests
 ======
