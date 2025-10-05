@@ -44,7 +44,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   ml_conferences:
-    title: 'Publications in Machine Learning Conferences'
+    title: 'Publications in (Flagship) Machine Learning Conferences'
   journal:
     title: 'Journal Publications'    
   ieee_conferences:
