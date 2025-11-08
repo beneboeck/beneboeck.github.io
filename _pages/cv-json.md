@@ -11,5 +11,5 @@ redirect_from:
 
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download my CV as PDF</a>
+  <a href="{{ base_path }}/files/cv_08_11_25.pdf" class="btn btn--primary">Download my CV as PDF</a>
 </div>
